@@ -25,4 +25,5 @@ TeraPadで上書き保存する。
 cmd.exeを起動し、javac Balloon01.java　と入力する。続いて java Balloon01 と入力する。
 計算結果はTeraPadで上に入力した計算式の結果から順に上から表示される。
 例(githubにアップしたコードに書かれたアルファベット・数字を使用)
-TeraPadで上から順にSystem.out.println(w/(y+A)-z);  System.out.println(z+w%y); と入力する。cmd.exeでは上から順に  -4  9  と表示される。
+TeraPadで上から順にSystem.out.println(w/(y+A)-z);  　　System.out.println(z+w%y); 　と入力する。cmd.exeでは上から順に  　-4 　　9　  と
+表示される。
